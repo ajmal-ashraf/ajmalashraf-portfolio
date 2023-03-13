@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ajmalashraf-portfolio/static/css/main.6fedd15d.css",
+    "main.js": "/ajmalashraf-portfolio/static/js/main.3af1db13.js",
+    "static/media/Profile.JPG": "/ajmalashraf-portfolio/static/media/Profile.7e55f584bf509cf6198f.JPG",
+    "static/media/About.jpg": "/ajmalashraf-portfolio/static/media/About.41f7b1d279d657b178a1.jpg",
+    "static/media/work2.jpg": "/ajmalashraf-portfolio/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/work1.jpg": "/ajmalashraf-portfolio/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/ajmalashraf-portfolio/static/media/work3.135e9065694bc13dc31d.jpg",
+    "static/media/John-Cv.pdf": "/ajmalashraf-portfolio/static/media/John-Cv.e83747cf513e0b21a7f1.pdf",
+    "index.html": "/ajmalashraf-portfolio/index.html",
+    "main.6fedd15d.css.map": "/ajmalashraf-portfolio/static/css/main.6fedd15d.css.map",
+    "main.3af1db13.js.map": "/ajmalashraf-portfolio/static/js/main.3af1db13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fedd15d.css",
+    "static/js/main.3af1db13.js"
+  ]
+}
